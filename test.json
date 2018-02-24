@@ -1,0 +1,2112 @@
+{
+    "content": [
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "1a21668f-5731-44e5-a659-2448f7eb672c",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-08T03:29:32.996Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "ETS-ThirdApp",
+                    "subtenantRef": "11abf7f3-a022-4d79-aef4-d37263a3e59a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "1a21668f-5731-44e5-a659-2448f7eb672c",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-18T09:11:40.898Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/1a21668f-5731-44e5-a659-2448f7eb672c/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/1a21668f-5731-44e5-a659-2448f7eb672c/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Auto_windows10ENX64",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "9980120d-9944-4f5f-b91b-1c74e2d4a32e",
+                "label": "Jenkins-Build"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "b054378e-04b2-4e49-8879-2d68d1d368ef",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-11T06:24:14.177Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "ETS-ThirdApp",
+                    "subtenantRef": "11abf7f3-a022-4d79-aef4-d37263a3e59a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "b054378e-04b2-4e49-8879-2d68d1d368ef",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-18T09:12:13.454Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/b054378e-04b2-4e49-8879-2d68d1d368ef/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/b054378e-04b2-4e49-8879-2d68d1d368ef/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Auto Windows 7 ENT SP1 X64 EN",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "9980120d-9944-4f5f-b91b-1c74e2d4a32e",
+                "label": "Jenkins-Build"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "c73d680f-abaa-4baa-8e7f-51fdbe06bfb0",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-21T09:39:10.915Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "c73d680f-abaa-4baa-8e7f-51fdbe06bfb0",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-22T01:46:24.056Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/c73d680f-abaa-4baa-8e7f-51fdbe06bfb0/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/c73d680f-abaa-4baa-8e7f-51fdbe06bfb0/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Centos6.6_X64_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "56a89aab-2d0f-4798-a273-649c866fc08c",
+                "label": "CentOS"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "fb5104c9-675c-41d7-9367-2129bf6f5a12",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-21T09:49:14.388Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "fb5104c9-675c-41d7-9367-2129bf6f5a12",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-22T02:23:14.596Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/fb5104c9-675c-41d7-9367-2129bf6f5a12/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/fb5104c9-675c-41d7-9367-2129bf6f5a12/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "SLES11SP3_X32_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "99a95037-868d-44ca-8d7f-209a9ec249b3",
+                "label": "SUSE"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "fa481123-bdba-4495-82a1-cba37478d54d",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-21T10:00:27.750Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "fa481123-bdba-4495-82a1-cba37478d54d",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-22T02:23:34.739Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/fa481123-bdba-4495-82a1-cba37478d54d/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/fa481123-bdba-4495-82a1-cba37478d54d/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "SUSE12SP2_X64_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "99a95037-868d-44ca-8d7f-209a9ec249b3",
+                "label": "SUSE"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "3c051b2e-4bc3-4b5b-a515-dc89c37cbef2",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-22T02:01:37.352Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "3c051b2e-4bc3-4b5b-a515-dc89c37cbef2",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-22T02:23:41.693Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/3c051b2e-4bc3-4b5b-a515-dc89c37cbef2/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/3c051b2e-4bc3-4b5b-a515-dc89c37cbef2/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Ubuntu14.04_Server_X64_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "2a1ee0b2-5253-43bf-b2e2-97bcba9bb4a1",
+                "label": "Ubuntu"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "7cd83a62-cb4a-4dac-a01b-77bcdab4df82",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-18T05:46:58.962Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "ETS-ThirdApp",
+                    "subtenantRef": "11abf7f3-a022-4d79-aef4-d37263a3e59a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "7cd83a62-cb4a-4dac-a01b-77bcdab4df82",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-18T09:08:36.745Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/7cd83a62-cb4a-4dac-a01b-77bcdab4df82/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/7cd83a62-cb4a-4dac-a01b-77bcdab4df82/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Auto Ubuntu 16.04 X64 EN Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "9980120d-9944-4f5f-b91b-1c74e2d4a32e",
+                "label": "Jenkins-Build"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "0ea5bcf6-62e5-4f63-8e6d-67b2d01b411b",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-18T05:47:00.948Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "ETS-ThirdApp",
+                    "subtenantRef": "11abf7f3-a022-4d79-aef4-d37263a3e59a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "0ea5bcf6-62e5-4f63-8e6d-67b2d01b411b",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-18T09:09:50.282Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/0ea5bcf6-62e5-4f63-8e6d-67b2d01b411b/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/0ea5bcf6-62e5-4f63-8e6d-67b2d01b411b/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Auto Ubuntu 12.04 X64 EN Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "9980120d-9944-4f5f-b91b-1c74e2d4a32e",
+                "label": "Jenkins-Build"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "ca3445a4-83d1-40c7-b4ec-c1a9cbc6885b",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-15T08:07:36.749Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "ETS-ThirdApp",
+                    "subtenantRef": "11abf7f3-a022-4d79-aef4-d37263a3e59a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "ca3445a4-83d1-40c7-b4ec-c1a9cbc6885b",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-18T09:10:13.401Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/ca3445a4-83d1-40c7-b4ec-c1a9cbc6885b/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/ca3445a4-83d1-40c7-b4ec-c1a9cbc6885b/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Auto CentOS 6.7 X64 EN Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "9980120d-9944-4f5f-b91b-1c74e2d4a32e",
+                "label": "Jenkins-Build"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "17de66c9-e985-422a-993b-e2c80250070e",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-11T07:48:50.199Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "ETS-ThirdApp",
+                    "subtenantRef": "11abf7f3-a022-4d79-aef4-d37263a3e59a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "composition.blueprint.png",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-18T09:12:50.317Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/17de66c9-e985-422a-993b-e2c80250070e/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/17de66c9-e985-422a-993b-e2c80250070e/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Auto Windows 7 ENT SP1 x86 EN",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "9980120d-9944-4f5f-b91b-1c74e2d4a32e",
+                "label": "Jenkins-Build"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "4aaf39cb-53b5-4209-b2fb-663bfc53f46c",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-12T01:57:58.480Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "ETS-ThirdApp",
+                    "subtenantRef": "11abf7f3-a022-4d79-aef4-d37263a3e59a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "composition.blueprint.png",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-18T09:13:47.009Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/4aaf39cb-53b5-4209-b2fb-663bfc53f46c/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/4aaf39cb-53b5-4209-b2fb-663bfc53f46c/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Auto Windows8.1 ENT X86 EN-template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "9980120d-9944-4f5f-b91b-1c74e2d4a32e",
+                "label": "Jenkins-Build"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "1722ab23-becd-4cb0-9406-9f2ee9e25e2a",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-11T02:42:05.734Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "ETS-ThirdApp",
+                    "subtenantRef": "11abf7f3-a022-4d79-aef4-d37263a3e59a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "composition.blueprint.png",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-18T09:14:35.447Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/1722ab23-becd-4cb0-9406-9f2ee9e25e2a/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/1722ab23-becd-4cb0-9406-9f2ee9e25e2a/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Auto Windows Server 2012 R2 STD X64 EN",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "9980120d-9944-4f5f-b91b-1c74e2d4a32e",
+                "label": "Jenkins-Build"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "ecee37b4-25bd-404f-8954-6fdd34e85036",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-21T09:31:25.239Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "ecee37b4-25bd-404f-8954-6fdd34e85036",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-22T02:14:24.193Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/ecee37b4-25bd-404f-8954-6fdd34e85036/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/ecee37b4-25bd-404f-8954-6fdd34e85036/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Centos6.5_X32_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "56a89aab-2d0f-4798-a273-649c866fc08c",
+                "label": "CentOS"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "b0d0ccec-37f5-4f56-b448-8dab9942b3cc",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-21T09:42:37.660Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "b0d0ccec-37f5-4f56-b448-8dab9942b3cc",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-22T02:14:50.527Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/b0d0ccec-37f5-4f56-b448-8dab9942b3cc/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/b0d0ccec-37f5-4f56-b448-8dab9942b3cc/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "RHEL6.6_X32_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "3b8b0e15-b532-4133-96f4-24d3bba67506",
+                "label": "RedHat"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "68f53683-6686-471b-b6b0-b55730adc685",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-21T09:36:57.164Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "68f53683-6686-471b-b6b0-b55730adc685",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-22T02:14:32.424Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/68f53683-6686-471b-b6b0-b55730adc685/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/68f53683-6686-471b-b6b0-b55730adc685/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Centos6.5_X64_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "56a89aab-2d0f-4798-a273-649c866fc08c",
+                "label": "CentOS"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "ae3d84c5-b190-4612-9de6-e92b3e69e60d",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-21T09:57:54.903Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "ae3d84c5-b190-4612-9de6-e92b3e69e60d",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-22T02:23:25.050Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/ae3d84c5-b190-4612-9de6-e92b3e69e60d/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/ae3d84c5-b190-4612-9de6-e92b3e69e60d/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "SLES11SP3_X64_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "99a95037-868d-44ca-8d7f-209a9ec249b3",
+                "label": "SUSE"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "272224db-b038-4c2e-b98b-28e9263817d8",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-21T09:47:03.009Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "272224db-b038-4c2e-b98b-28e9263817d8",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-28T02:01:01.323Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/272224db-b038-4c2e-b98b-28e9263817d8/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/272224db-b038-4c2e-b98b-28e9263817d8/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "RHEL7_X64_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "3b8b0e15-b532-4133-96f4-24d3bba67506",
+                "label": "RedHat"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "6f3d2e08-5f5a-49ac-9ac9-48d47593f8f0",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T01:44:42.694Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "6f3d2e08-5f5a-49ac-9ac9-48d47593f8f0",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-28T02:11:33.250Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/6f3d2e08-5f5a-49ac-9ac9-48d47593f8f0/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/6f3d2e08-5f5a-49ac-9ac9-48d47593f8f0/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_8_ENT_X86_ EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "054dc45a-9c53-4464-be1e-37c14b284fea",
+                "label": "Windows Desktop"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "7e313b39-f6a1-427e-a852-61ab6612e8e7",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-18T08:47:23.002Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "7e313b39-f6a1-427e-a852-61ab6612e8e7",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-30T04:35:00.124Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/7e313b39-f6a1-427e-a852-61ab6612e8e7/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/7e313b39-f6a1-427e-a852-61ab6612e8e7/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Centos5.7_X64_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "56a89aab-2d0f-4798-a273-649c866fc08c",
+                "label": "CentOS"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "846232d5-06f3-4abc-9b80-7bd94514b1ca",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T03:20:24.463Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "846232d5-06f3-4abc-9b80-7bd94514b1ca",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-09T09:19:09.364Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/846232d5-06f3-4abc-9b80-7bd94514b1ca/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/846232d5-06f3-4abc-9b80-7bd94514b1ca/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_Server_2016_Storage_Standard_X64_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "152d859f-fc00-4e9e-a935-06613093b27e",
+                "label": "Windows Server"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "71181980-ced4-4a0f-b867-9b6094358ba7",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T03:05:23.307Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "71181980-ced4-4a0f-b867-9b6094358ba7",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-09T09:19:41.785Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/71181980-ced4-4a0f-b867-9b6094358ba7/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/71181980-ced4-4a0f-b867-9b6094358ba7/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_Server_2008_R2_ENT_X64_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "152d859f-fc00-4e9e-a935-06613093b27e",
+                "label": "Windows Server"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "641e1264-d3b4-4de7-8f0e-73453cc99dc1",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T01:37:22.428Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "641e1264-d3b4-4de7-8f0e-73453cc99dc1",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-28T02:17:47.695Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/641e1264-d3b4-4de7-8f0e-73453cc99dc1/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/641e1264-d3b4-4de7-8f0e-73453cc99dc1/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_8.1_ENT_X64_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "054dc45a-9c53-4464-be1e-37c14b284fea",
+                "label": "Windows Desktop"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "6d0ee532-6724-43da-819d-fc5f20d76604",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-24T05:25:30.684Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "6d0ee532-6724-43da-819d-fc5f20d76604",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-28T02:18:50.542Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/6d0ee532-6724-43da-819d-fc5f20d76604/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/6d0ee532-6724-43da-819d-fc5f20d76604/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_7_ENT_SP1 _X86_ EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "054dc45a-9c53-4464-be1e-37c14b284fea",
+                "label": "Windows Desktop"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "b7f55930-a860-4780-baf2-c59499b48516",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-21T09:44:48.484Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "b7f55930-a860-4780-baf2-c59499b48516",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-28T02:00:44.960Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/b7f55930-a860-4780-baf2-c59499b48516/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/b7f55930-a860-4780-baf2-c59499b48516/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "RHEL6.6_X64_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "3b8b0e15-b532-4133-96f4-24d3bba67506",
+                "label": "RedHat"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "79d2decb-9a7f-4349-bb5d-9a4803c38908",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T01:40:17.124Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "79d2decb-9a7f-4349-bb5d-9a4803c38908",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-28T02:17:24.343Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/79d2decb-9a7f-4349-bb5d-9a4803c38908/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/79d2decb-9a7f-4349-bb5d-9a4803c38908/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_8_ ENT_ X64_ EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "054dc45a-9c53-4464-be1e-37c14b284fea",
+                "label": "Windows Desktop"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "3a1abd20-6303-484e-8069-809c3f5648b5",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T01:35:18.457Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "3a1abd20-6303-484e-8069-809c3f5648b5",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-28T02:18:19.763Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/3a1abd20-6303-484e-8069-809c3f5648b5/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/3a1abd20-6303-484e-8069-809c3f5648b5/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_7_ENT_SP1_ X64_ EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "054dc45a-9c53-4464-be1e-37c14b284fea",
+                "label": "Windows Desktop"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "9e8323fc-3702-41c4-b84c-3e0d854e9559",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T03:20:39.002Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "9e8323fc-3702-41c4-b84c-3e0d854e9559",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-09T09:15:38.602Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/9e8323fc-3702-41c4-b84c-3e0d854e9559/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/9e8323fc-3702-41c4-b84c-3e0d854e9559/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_Server_2008_R2_x64_JP_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "152d859f-fc00-4e9e-a935-06613093b27e",
+                "label": "Windows Server"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "c4f2a92f-2198-4e83-81a1-b73bd8390471",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T03:20:36.960Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "c4f2a92f-2198-4e83-81a1-b73bd8390471",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-09T09:16:32.453Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/c4f2a92f-2198-4e83-81a1-b73bd8390471/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/c4f2a92f-2198-4e83-81a1-b73bd8390471/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_Server_2012_R2_STD_X64_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "152d859f-fc00-4e9e-a935-06613093b27e",
+                "label": "Windows Server"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "96920248-7d16-4a3d-a83d-827bae6245fa",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T03:20:35.071Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "96920248-7d16-4a3d-a83d-827bae6245fa",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-09T09:16:55.714Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/96920248-7d16-4a3d-a83d-827bae6245fa/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/96920248-7d16-4a3d-a83d-827bae6245fa/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_Server_2012_R2_STD_X64_JP_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "152d859f-fc00-4e9e-a935-06613093b27e",
+                "label": "Windows Server"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "97d502dc-9f64-4588-8d9e-92e9c5e80a08",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T03:20:32.862Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "97d502dc-9f64-4588-8d9e-92e9c5e80a08",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-09T09:17:19.488Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/97d502dc-9f64-4588-8d9e-92e9c5e80a08/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/97d502dc-9f64-4588-8d9e-92e9c5e80a08/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_Server_2012_X64_STD_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "152d859f-fc00-4e9e-a935-06613093b27e",
+                "label": "Windows Server"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "8a9b8953-7d49-4eda-b263-dc1ab3866976",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T03:20:30.893Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "8a9b8953-7d49-4eda-b263-dc1ab3866976",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-09T09:17:45.265Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/8a9b8953-7d49-4eda-b263-dc1ab3866976/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/8a9b8953-7d49-4eda-b263-dc1ab3866976/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_Server_2016_Datacenter_X64_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "152d859f-fc00-4e9e-a935-06613093b27e",
+                "label": "Windows Server"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "56484d6f-f75a-4f7e-b00a-e06773b8a691",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T03:20:28.816Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "56484d6f-f75a-4f7e-b00a-e06773b8a691",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-09T09:18:13.226Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/56484d6f-f75a-4f7e-b00a-e06773b8a691/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/56484d6f-f75a-4f7e-b00a-e06773b8a691/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "WIndows_Server_2016_Essentials_EN_X64_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "152d859f-fc00-4e9e-a935-06613093b27e",
+                "label": "Windows Server"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "f1a60e5f-dfea-4c73-99fe-f3777d361295",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-22T02:54:16.204Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "f1a60e5f-dfea-4c73-99fe-f3777d361295",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-28T02:21:27.491Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/f1a60e5f-dfea-4c73-99fe-f3777d361295/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/f1a60e5f-dfea-4c73-99fe-f3777d361295/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_10_ENT_LTSB_X64_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "054dc45a-9c53-4464-be1e-37c14b284fea",
+                "label": "Windows Desktop"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "dadfe509-decd-4391-b530-8ff3a3f22976",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-21T09:40:57.624Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "dadfe509-decd-4391-b530-8ff3a3f22976",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-28T03:06:32.453Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/dadfe509-decd-4391-b530-8ff3a3f22976/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/dadfe509-decd-4391-b530-8ff3a3f22976/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Centos7_X64_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "56a89aab-2d0f-4798-a273-649c866fc08c",
+                "label": "CentOS"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "bdb724ba-9ff5-4c6b-bce5-834db4719224",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-19T06:02:05.222Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "bdb724ba-9ff5-4c6b-bce5-834db4719224",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-09-29T10:02:49.955Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/bdb724ba-9ff5-4c6b-bce5-834db4719224/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/bdb724ba-9ff5-4c6b-bce5-834db4719224/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Centos5.6_X32_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "56a89aab-2d0f-4798-a273-649c866fc08c",
+                "label": "CentOS"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "4cab090e-7e51-4642-92ac-4ed13cfe3575",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T03:20:40.898Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "4cab090e-7e51-4642-92ac-4ed13cfe3575",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-09T09:15:08.193Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/4cab090e-7e51-4642-92ac-4ed13cfe3575/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/4cab090e-7e51-4642-92ac-4ed13cfe3575/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_Server_2008_R2_SP1_ENT_X64_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "152d859f-fc00-4e9e-a935-06613093b27e",
+                "label": "Windows Server"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "f9861283-1d5e-4d0a-8684-1f452f394780",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-25T03:20:26.957Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "f9861283-1d5e-4d0a-8684-1f452f394780",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-09T09:18:43.767Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/f9861283-1d5e-4d0a-8684-1f452f394780/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/f9861283-1d5e-4d0a-8684-1f452f394780/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_Server_2016_Standard_X64_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "152d859f-fc00-4e9e-a935-06613093b27e",
+                "label": "Windows Server"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "6135d0c7-08c7-48c3-8a24-6f525d0e0d29",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-28T08:42:40.390Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "6135d0c7-08c7-48c3-8a24-6f525d0e0d29",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-09T09:24:09.141Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/6135d0c7-08c7-48c3-8a24-6f525d0e0d29/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/6135d0c7-08c7-48c3-8a24-6f525d0e0d29/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_Server_2008_SP2_ENT_X64_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "152d859f-fc00-4e9e-a935-06613093b27e",
+                "label": "Windows Server"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "a88bf080-878f-4750-8cd4-fe4c863883d9",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-10-13T08:55:31.721Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "ETS-ThirdApp",
+                    "subtenantRef": "11abf7f3-a022-4d79-aef4-d37263a3e59a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "composition.blueprint.png",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-13T08:58:01.617Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/a88bf080-878f-4750-8cd4-fe4c863883d9/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/a88bf080-878f-4750-8cd4-fe4c863883d9/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Central_Machine_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "9980120d-9944-4f5f-b91b-1c74e2d4a32e",
+                "label": "Jenkins-Build"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "ac96b722-cf11-477e-af67-6006cbb8db11",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-12T02:44:47.416Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "ETS-ThirdApp",
+                    "subtenantRef": "11abf7f3-a022-4d79-aef4-d37263a3e59a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "ac96b722-cf11-477e-af67-6006cbb8db11",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-18T01:45:18.059Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/ac96b722-cf11-477e-af67-6006cbb8db11/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/ac96b722-cf11-477e-af67-6006cbb8db11/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Auto CentOS 5.4 X64 EN Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "9980120d-9944-4f5f-b91b-1c74e2d4a32e",
+                "label": "Jenkins-Build"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "69072033-2a6f-41a1-9202-525115ee5274",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-11T06:48:50.573Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "ETS-ThirdApp",
+                    "subtenantRef": "11abf7f3-a022-4d79-aef4-d37263a3e59a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "69072033-2a6f-41a1-9202-525115ee5274",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-18T01:43:54.259Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/69072033-2a6f-41a1-9202-525115ee5274/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/69072033-2a6f-41a1-9202-525115ee5274/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Auto CentOS 5.1  X32 Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "9980120d-9944-4f5f-b91b-1c74e2d4a32e",
+                "label": "Jenkins-Build"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "00e3adae-4c61-4c9b-a27d-4dd53e26c7e6",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-11T09:49:30.270Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "ETS-ThirdApp",
+                    "subtenantRef": "11abf7f3-a022-4d79-aef4-d37263a3e59a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "composition.blueprint.png",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-18T09:15:05.939Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/00e3adae-4c61-4c9b-a27d-4dd53e26c7e6/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/00e3adae-4c61-4c9b-a27d-4dd53e26c7e6/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Auto Windows Server 2012 STD X64 EN",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "9980120d-9944-4f5f-b91b-1c74e2d4a32e",
+                "label": "Jenkins-Build"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "121f1cca-ac34-4879-bc12-127c04f1b358",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-10-25T06:23:11.788Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "composition.blueprint.png",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-10-25T06:43:16.526Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/121f1cca-ac34-4879-bc12-127c04f1b358/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/121f1cca-ac34-4879-bc12-127c04f1b358/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Create_Blank_Machine",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "50fb4a22-bb7e-457d-bc70-29d8f0c5a2ec",
+                "label": "Create New VM"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "060f6646-241d-4e75-b65c-2b5e9bec2e4a",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-24T05:16:55.537Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "060f6646-241d-4e75-b65c-2b5e9bec2e4a",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-11-10T05:44:53.374Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/060f6646-241d-4e75-b65c-2b5e9bec2e4a/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/060f6646-241d-4e75-b65c-2b5e9bec2e4a/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_10_Pro_1511_X86_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "054dc45a-9c53-4464-be1e-37c14b284fea",
+                "label": "Windows Desktop"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "8caab0e9-bf3f-49ba-98fe-9f199d9d5c37",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-11-17T08:20:16.987Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "8caab0e9-bf3f-49ba-98fe-9f199d9d5c37",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-11-17T08:22:55.417Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/8caab0e9-bf3f-49ba-98fe-9f199d9d5c37/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/8caab0e9-bf3f-49ba-98fe-9f199d9d5c37/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_10_ENT_RS3_1709_X32_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "054dc45a-9c53-4464-be1e-37c14b284fea",
+                "label": "Windows Desktop"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "af2cccab-99e0-4e05-8c5a-f013d60a362d",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-11-20T02:31:34.262Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "composition.blueprint.png",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2018-01-04T09:03:47.133Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/af2cccab-99e0-4e05-8c5a-f013d60a362d/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/af2cccab-99e0-4e05-8c5a-f013d60a362d/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_VISTA_SP2_34329_X86",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "054dc45a-9c53-4464-be1e-37c14b284fea",
+                "label": "Windows Desktop"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "69eb7c55-5be3-45b4-b721-24eae086b51b",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-11-20T02:29:42.154Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "composition.blueprint.png",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2018-01-04T09:05:06.793Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/69eb7c55-5be3-45b4-b721-24eae086b51b/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/69eb7c55-5be3-45b4-b721-24eae086b51b/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_VISTA_SP2_342332_64",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "054dc45a-9c53-4464-be1e-37c14b284fea",
+                "label": "Windows Desktop"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "270f9cd3-7684-4cb7-87af-f8189c16c282",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-11-23T08:48:59.157Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "composition.blueprint.png",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2017-11-23T13:01:51.108Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/270f9cd3-7684-4cb7-87af-f8189c16c282/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/270f9cd3-7684-4cb7-87af-f8189c16c282/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_10_Pro_1607_X64_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "054dc45a-9c53-4464-be1e-37c14b284fea",
+                "label": "Windows Desktop"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "0c6ebf50-8a90-42e5-b6e0-57425ca569d6",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-11-17T01:52:54.866Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "DD-SEG-Group",
+                    "subtenantRef": "e7f9d70c-6c71-431c-b309-93a3de653c1a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "0c6ebf50-8a90-42e5-b6e0-57425ca569d6",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2018-01-03T09:02:15.584Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/0c6ebf50-8a90-42e5-b6e0-57425ca569d6/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/0c6ebf50-8a90-42e5-b6e0-57425ca569d6/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Windows_10_ENT_RS3_1709_X64_EN_Template",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "054dc45a-9c53-4464-be1e-37c14b284fea",
+                "label": "Windows Desktop"
+            }
+        },
+        {
+            "@type": "ConsumerEntitledCatalogItemView",
+            "catalogItemId": "113b1805-6711-4fbd-b079-a119c745af25",
+            "catalogItemTypeRef": {
+                "id": "com.vmware.csp.component.cafe.composition.blueprint",
+                "label": "Composite Blueprint"
+            },
+            "dateCreated": "2017-09-12T03:10:45.709Z",
+            "description": "",
+            "entitledOrganizations": [
+                {
+                    "subtenantLabel": "ETS-ThirdApp",
+                    "subtenantRef": "11abf7f3-a022-4d79-aef4-d37263a3e59a",
+                    "tenantLabel": "cloud",
+                    "tenantRef": "cloud"
+                }
+            ],
+            "iconId": "113b1805-6711-4fbd-b079-a119c745af25",
+            "isNoteworthy": false,
+            "lastUpdatedDate": "2018-01-10T06:53:21.913Z",
+            "links": [
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/113b1805-6711-4fbd-b079-a119c745af25/requests/template{?businessGroupId,requestedFor}",
+                    "rel": "GET: Request Template"
+                },
+                {
+                    "@type": "link",
+                    "href": "https://nj-etsvra-cloud.tw.trendnet.org/catalog-service/api/consumer/entitledCatalogItems/113b1805-6711-4fbd-b079-a119c745af25/requests{?businessGroupId,requestedFor}",
+                    "rel": "POST: Submit Request"
+                }
+            ],
+            "name": "Auto CentOS 7 1511 X64 TEmplate",
+            "outputResourceTypeRef": {
+                "id": "composition.resource.type.deployment",
+                "label": "Deployment"
+            },
+            "serviceRef": {
+                "id": "9980120d-9944-4f5f-b91b-1c74e2d4a32e",
+                "label": "Jenkins-Build"
+            }
+        }
+    ],
+    "links": [],
+    "metadata": {
+        "number": 1,
+        "offset": 0,
+        "size": 100,
+        "totalElements": 50,
+        "totalPages": 1
+    }
+}
