@@ -452,7 +452,7 @@ def Upload_iso(iso_location = ISO_LOCATION):
         logging.error(e)
         return False
 
-def vRA_install_DDAN(virtual_machine, iso_name, iso_location=ISO_LOCATION, mount_type = 'Datastore'):
+def vRA_install_ISO(virtual_machine, iso_name, iso_location=ISO_LOCATION, mount_type = 'Datastore'):
     Upload_iso(iso_location)
     vRA = VRealizeObject()
     tmp = get_vRealize_Machine_ReqID(virtual_machine, vRA=vRA)

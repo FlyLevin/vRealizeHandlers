@@ -34,7 +34,7 @@ GoldenSnapshot = {
                      "classId": "Infrastructure.Compute.Machine.Snapshot",
                      "componentId": "a7f96ca7-fa97-406d-98ee-3c68329ed37e",
                      "id": GoldenVMID,
-                     "label": "DDAN-Auto-0003_Golden"
+                     "label": "Auto-0003_Golden"
                  }
 
 
